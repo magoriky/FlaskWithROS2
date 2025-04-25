@@ -90,9 +90,3 @@ curl -X POST http://localhost:5000/trigger
 - Implement logging and error handling  
 - Add authentication headers for secure production deployments  
 - Connect with a front-end dashboard
-
----
-
-## ✨ Author
-
-You 😎 — because you're building something awesome.
